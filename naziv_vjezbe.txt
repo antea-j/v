@@ -1,1 +1,4 @@
-blablabla
+numpy==verzija
+pandas==verzija
+matplotlib==verzija
+seaborn==verzija
